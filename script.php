@@ -1,1 +1,1 @@
-helloo
+<? phpinfo(); ?>
